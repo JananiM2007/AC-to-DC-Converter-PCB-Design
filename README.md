@@ -92,27 +92,6 @@ The repository includes all the files required for PCB fabrication, including:
 - Gerber Job File
 
 ---
-
-## Images
-
-### Schematic
-
-![Schematic](Images/schematic.png)
-
-### PCB Top View
-
-![PCB Top](Images/pcb_top.png)
-
-### PCB Bottom View
-
-![PCB Bottom](Images/pcb_bottom.png)
-
-### 3D PCB View
-
-![3D PCB](Images/pcb_3d.png)
-
----
-
 ## Applications
 
 - AC to DC Power Supplies
